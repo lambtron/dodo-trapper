@@ -3,9 +3,11 @@ Dodo-trapper
 
 ![](http://www.legendsofamerica.com/photos-oldwest/OldTrapper.gif)
 
-> Follow Twitter users whose tweets meet a criteria or filter.
+> For Twitter users whose tweets meet a criteria or filter, follow and add to 'Dodo' list.
 
-
+Related services:
+- [server](https://github.com/lambtron/dodo)
+- [unfollow](https://github.com/lambtron/dodo)
 
 ## License (MIT)
 
