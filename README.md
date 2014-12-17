@@ -3,11 +3,12 @@ Dodo-trapper
 
 ![](http://www.legendsofamerica.com/photos-oldwest/OldTrapper.gif)
 
-> For Twitter users whose tweets meet a criteria or filter, follow and add to 'Dodo' list.
+> Follow back new twitter users who have followed you in the past day.
 
 Related services:
 - [server](https://github.com/lambtron/dodo)
 - [unfollow](https://github.com/lambtron/dodo)
+- [hunter](https://github.com/lambtron/dotjs-scripts/blob/master/twitter.com.js)
 
 ## License (MIT)
 
