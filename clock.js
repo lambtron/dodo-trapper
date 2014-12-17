@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var trapper = require('./tasks/trapper.js');
+var main = require('./tasks/main.js');
 var CronJob = require('cron').CronJob;
 
 /**
@@ -12,8 +12,8 @@ var CronJob = require('cron').CronJob;
  */
 
 new CronJob({
-  cronTime: "0 0 1 * *",
-  onTick: trapper(),
+  cronTime: "0 0 * * *",
+  onTick: main(),
   start: true,
   timeZone: "America/Los_Angeles"
 });
