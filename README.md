@@ -7,8 +7,8 @@ Dodo-trapper
 
 Related services:
 - [server](https://github.com/lambtron/dodo)
-- [unfollow](https://github.com/lambtron/dodo)
-- [hunter](https://github.com/lambtron/dotjs-scripts/blob/master/twitter.com.js)
+- [hunter](https://github.com/lambtron/dodo-hunter)
+- [unfollow](https://github.com/lambtron/dodo-unfollow)
 
 ## License (MIT)
 

@@ -3,7 +3,7 @@
   "description": "Every night, follow back new twitter users who have followed you in the past day.",
   "version": "0.0.1",
   "author": "Andy Jiang",
-  "main": "bin/server",
+  "main": "clock.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/lambtron/dodo-trapper"
